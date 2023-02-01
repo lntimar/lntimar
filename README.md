@@ -1,8 +1,26 @@
-### Hi there 👋
+### Olá, eu sou o Lucas Timar futuro gamedev 👾
+
+##
+<br>
+  <div align="center" style="display: inline_block">
+  <a href="https://github.com/lntimar">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lntimar&count_private=true&show_icons=true&include_all_commits=false&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lntimar&layout=compact&theme=tokyonight" />
+  </a>
+  </div>
+
+##
+
+
+<div align="center" style="display: inline_block"><br>
+   <img alt="html-icon" width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+   <img alt="html-icon" width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   <img alt="html-icon" width="50" heigth="50" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/19475c09dd8a552147b1a959589e04a81fded946/Papirus/64x64/apps/renpy.svg" />
+ 
+</div>
+
 
 <!--
-**lntimar/lntimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
