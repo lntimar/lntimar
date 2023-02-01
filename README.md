@@ -1,6 +1,6 @@
-### Olá, eu sou o Lucas Timar futuro gamedev 👾
+## Olá, eu sou o Lucas Timar futuro gamedev 👾
 
-##
+
 <br>
   <div align="center" style="display: inline_block">
   <a href="https://github.com/lntimar">
