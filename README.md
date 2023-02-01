@@ -1,4 +1,4 @@
-## Olá, eu sou o Lucas Timar futuro gamedev 👾
+## Olá, eu sou o Lucas Timar - Futuro gamedev 👾
 
 
 <br>
