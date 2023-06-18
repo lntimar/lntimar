@@ -5,11 +5,11 @@
   <div align="center" style="display: inline_block">
   <a href="https://github.com/lntimar">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=lntimar&count_private=true&show_icons=true&include_all_commits=false&theme=tokyonight" />
-<!--
+    
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lntimar&layout=compact&theme=tokyonight" />
   </a>
   </div>
--->
+
 
 ##
 
