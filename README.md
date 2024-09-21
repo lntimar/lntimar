@@ -12,7 +12,7 @@
 
 ##
 
-
+<!--
 <div align="center" style="display: inline_block"><br>
    <img alt="unity-icon" width="50" height="50" src="https://files.rubixdev.de/logos/unity.svg"/>
    <img alt="html-icon" width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -20,7 +20,7 @@
    <img alt="construct-icon" width="45" height="45" src="construct_logo.png"/>
    <img alt="html-icon" width="50" heigth="50" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/19475c09dd8a552147b1a959589e04a81fded946/Papirus/64x64/apps/renpy.svg" />
 </div>
-
+-->
 ##
 
 <div align= "center"> 
