@@ -5,7 +5,7 @@
   <div align="center" style="display: inline_block">
   <a href="https://github.com/lntimar">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=lntimar&count_private=true&show_icons=true&include_all_commits=false&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sktheu&layout=compact&theme=tokyonight"/>
+  <!-- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sktheu&layout=compact&theme=tokyonight"/> -->
   </a>
   </div>
 
@@ -22,14 +22,14 @@
 </div>
 
 ##
-<!--
+
 <div align= "center"> 
   <a href="https://lucasnt.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-nt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:nevestimar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
--->
+
 
 <!--
 Here are some ideas to get you started:
